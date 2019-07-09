@@ -1,0 +1,8 @@
+{
+  "name": "<%= projectNameKebab %>",
+  "version": "0.1.0",
+  "description": "",
+  "scripts": {
+    "test": "yarn jest"
+  }
+}
