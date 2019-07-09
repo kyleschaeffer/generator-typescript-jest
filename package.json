@@ -1,6 +1,6 @@
 {
   "name": "generator-typescript-jest",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Minimal TypeScript project with Jest testing",
   "license": "MIT",
   "keywords": [
