@@ -3,6 +3,13 @@
   "version": "0.1.6",
   "description": "Minimal TypeScript project with Jest testing",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kyleschaeffer/generator-typescript-jest"
+  },
+  "bugs": {
+    "url": "https://github.com/kyleschaeffer/generator-typescript-jest/issues"
+  },
   "keywords": [
     "typescript",
     "jest",
