@@ -1,6 +1,6 @@
 {
   "name": "generator-typescript-jest",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Minimal TypeScript project with Jest testing",
   "license": "MIT",
   "keywords": [
@@ -14,6 +14,6 @@
   "dependencies": {
     "lodash.camelcase": "^4.3.0",
     "lodash.kebabcase": "^4.1.1",
-    "yeoman-generator": "^4.0.1"
+    "yeoman-generator": "^4.11.0"
   }
 }
